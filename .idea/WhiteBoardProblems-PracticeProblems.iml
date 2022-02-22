@@ -5,8 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main/JavaHackerRank" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/JavaWhiteBoard" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/JavaHackerRank" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/JavaWhiteBoard" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Test/JavaHackerRankTests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Test/JavaWhiteBoardTests" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
